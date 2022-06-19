@@ -1,0 +1,22 @@
+Webpack (здачи): (imports / exports)
+  Babel
+  SCSS
+  Eslint
+  2 Modes:
+    -Dev
+        Dev Server
+        SourceMaps (SCSS карта (module))
+        Eslint
+        Not Minified JS & CSS
+     -Prod
+        Minifined Code
+
+Git (gitflow)
+
+  Production
+    1.0.0
+    ----------
+  Development
+    1.0.2
+    ------------
+    -------------- (clone) | Pull Request
